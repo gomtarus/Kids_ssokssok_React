@@ -4,13 +4,13 @@
 ● 유아를 타겟으로 만든 웹 사이트로 그림판, 다양한 퀴즈 게임이 준비되어있습니다.<br>
 
 # 화면 설명 #
-![gomtarus github io_Kids_ssokssok_React_](https://user-images.githubusercontent.com/118651919/225491503-e06176af-ad53-4106-a523-b4206e02b112.png)
+![메인](https://user-images.githubusercontent.com/118651919/225491503-e06176af-ad53-4106-a523-b4206e02b112.png)
 
 ### 메인 <br>
 - 상단 메뉴, 중간 배너, 하단 메뉴로 이루어져 있습니다. 각 메뉴를 통해 페이지 이동이 가능합니다.
 
-![ABC](https://user-images.githubusercontent.com/118651919/218254914-70031a25-6cbf-4777-b1fb-6a8eb398ea4a.png)
-![Layer 6](https://user-images.githubusercontent.com/118651919/218111953-09085e62-2bc7-4b1d-a311-c6ff892dce90.png)
+![그림판 설명](https://user-images.githubusercontent.com/118651919/225491945-d9fc09b2-a8a2-47b6-a233-f7e04d2700e7.png)
+![그림판 설명](https://user-images.githubusercontent.com/118651919/225492148-64cfa9f0-3ded-460d-a73f-cf8d98106b65.png)
 
 ### 쓱쓱그리기 <br>
 - 연필, 지우개, 그림 선택 메뉴로 이루어져 있습니다.
@@ -18,12 +18,15 @@
 - 지우개 : 현재 그려진 그림을 지울 수 있습니다.
 - 그림 선택 : 캔버스에 그림을 불러와 그릴 수 있습니다. 
 
-![Layer 3](https://user-images.githubusercontent.com/118651919/218112775-2c2c6508-3c5c-4dea-a061-484019a5ab91.png)
-![Layer 4](https://user-images.githubusercontent.com/118651919/218112785-96ee98d2-c528-4d5f-902d-bc2ad5301bdf.png)
-![Layer 5](https://user-images.githubusercontent.com/118651919/218112792-fad9e782-41a5-4163-bdda-8b358928788f.png)
+![한글퀴즈](https://user-images.githubusercontent.com/118651919/225492434-83114764-8661-47b4-861c-57e917c04f6c.png)
+![영어퀴즈](https://user-images.githubusercontent.com/118651919/225492446-650a0c76-ad12-487d-af46-061824430e5c.png)
+![수학퀴즈](https://user-images.githubusercontent.com/118651919/225492457-d71758bd-d618-4989-be6c-bbf7005c868f.png)
+
 ● 각 메인화면<br><br>
-![Layer 1](https://user-images.githubusercontent.com/118651919/218114733-d54e85b8-7be3-4ee5-81af-115ff62a9a45.png)
-![Layer 2](https://user-images.githubusercontent.com/118651919/218115853-c844b911-7e67-4fce-b784-1edc42a82c03.png)● 게임화면<br><br>
+![메인화면](https://user-images.githubusercontent.com/118651919/225493597-eac019af-30be-48be-aaa9-9fd81075a38c.png)
+![퀴즈화면](https://user-images.githubusercontent.com/118651919/225493725-52c0a6c4-8fba-4f94-9bdb-06ec9184931b.png)
+![오답일때](https://user-images.githubusercontent.com/118651919/225494076-19d4ae9f-c715-41b3-bbbb-ffa80b6a5ff6.png)
+![모두정답](https://user-images.githubusercontent.com/118651919/225494341-e2eb4512-73ba-4f56-a497-a25bfe5450f5.png)
 
 ### 한글, 영어, 숫자 퀴즈 <br>
 - 각 게임의 문제는 5문제로 이루어져있습니다.
