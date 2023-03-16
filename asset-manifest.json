@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gomtarus/Kids_ssokssok_React/static/css/main.c12bd897.css",
+    "main.js": "/gomtarus/Kids_ssokssok_React/static/js/main.32ddc8e3.js",
+    "static/media/4.png": "/gomtarus/Kids_ssokssok_React/static/media/4.4b0aaff2d70e1e0d2fbf.png",
+    "static/media/1.png": "/gomtarus/Kids_ssokssok_React/static/media/1.749c34c39d84f0eacaa3.png",
+    "static/media/3.png": "/gomtarus/Kids_ssokssok_React/static/media/3.0fc5816c9fe68a06dc14.png",
+    "static/media/QuizFrom.png": "/gomtarus/Kids_ssokssok_React/static/media/QuizFrom.a0a5a21b9b02abf7577d.png",
+    "static/media/KorStudyForm.png": "/gomtarus/Kids_ssokssok_React/static/media/KorStudyForm.901b5b27d3252a24203e.png",
+    "static/media/Q-3.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-3.6f8901c1c37a22b44918.png",
+    "static/media/Q-7.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-7.47ef056075b67ad160da.png",
+    "static/media/2.png": "/gomtarus/Kids_ssokssok_React/static/media/2.d73a9786fc89d4c14d67.png",
+    "static/media/MathStudyForm.png": "/gomtarus/Kids_ssokssok_React/static/media/MathStudyForm.e33370c6ad994f617767.png",
+    "static/media/Quiz-1.png": "/gomtarus/Kids_ssokssok_React/static/media/Quiz-1.aa6e5b2705fba57cd4a6.png",
+    "static/media/Q-9.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-9.53030bd24f649d329b5b.png",
+    "static/media/Quiz-2.png": "/gomtarus/Kids_ssokssok_React/static/media/Quiz-2.997fa3ebcdf9ecb7b786.png",
+    "static/media/Main.png": "/gomtarus/Kids_ssokssok_React/static/media/Main.a2a37653baa769c229ba.png",
+    "static/media/Q-8.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-8.a2bf0bd2122085bf2357.png",
+    "static/media/Q-10.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-10.17b19f5c910d89d98703.png",
+    "static/media/Q-1.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-1.0f4158303f06c9c3de21.png",
+    "static/media/Q-2.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-2.4dd6a1f7fc86a37a46cc.png",
+    "static/media/Q-6.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-6.7ded7ad3cc6f665877e6.png",
+    "static/media/Q-4.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-4.632b028de0c1cc25cf13.png",
+    "static/media/Q-5.png": "/gomtarus/Kids_ssokssok_React/static/media/Q-5.4f8cc90e7579f7534626.png",
+    "static/media/Color_Panel.png": "/gomtarus/Kids_ssokssok_React/static/media/Color_Panel.3e9730f1d4c09dd38892.png",
+    "static/media/EngStudyForm.png": "/gomtarus/Kids_ssokssok_React/static/media/EngStudyForm.f45ff7fdd8ca25e9dc77.png",
+    "static/media/EngStudy.png": "/gomtarus/Kids_ssokssok_React/static/media/EngStudy.c2a51223536f8709341e.png",
+    "static/media/Mathstudy.png": "/gomtarus/Kids_ssokssok_React/static/media/Mathstudy.6328fc77865e846c3331.png",
+    "index.html": "/gomtarus/Kids_ssokssok_React/index.html",
+    "main.c12bd897.css.map": "/gomtarus/Kids_ssokssok_React/static/css/main.c12bd897.css.map",
+    "main.32ddc8e3.js.map": "/gomtarus/Kids_ssokssok_React/static/js/main.32ddc8e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12bd897.css",
+    "static/js/main.32ddc8e3.js"
+  ]
+}
