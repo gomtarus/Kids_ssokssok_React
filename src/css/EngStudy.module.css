@@ -1,0 +1,126 @@
+.quiz_main {
+  margin: 30px auto;
+  width: 951px;
+  height: 809px;
+  border-radius: 15px;
+  background: url(../img/EngStudy/EngStudyForm.png) no-repeat center;
+  overflow: hidden;
+}
+
+.quiz_btn_wrap {
+  width: calc(100% / 2);
+  height: 809px;
+  float: left;
+  position: relative;
+}
+
+.quiz_btn_wrap > img {
+  width: 65%;
+  transition: 0.3s;
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.quiz_btn_wrap > img:hover {
+  width: 68%;
+}
+
+.quiz_start_btn {
+  width: 200px;
+  height: 70px;
+  position: absolute;
+  /*top: 77%;*/
+  top: 105%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  background-color: #3fb8b1;
+  transition: 0.3s;
+  cursor: pointer;
+  color: white;
+}
+
+.quiz_start_btn:hover {
+  background-color: #25a9a2;
+}
+
+.quiz_start_btn > p {
+  font-size: 35px;
+}
+
+/*메인 화면*/
+
+.quiz_form {
+  margin: 0 auto;
+  width: 951px;
+  height: 809px;
+  top: 820px;
+  position: relative;
+  border-radius: 15px;
+  background: url(../img/EngStudy/QuizFrom.png) no-repeat center;
+  transition: 0.5s;
+}
+
+.quiz_form p {
+  font-size: 50px;
+}
+
+.state {
+  width: 162px;
+  height: 54px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(38, 38, 38);
+}
+
+.quiz_answer {
+  text-align: center;
+  font-size: 60px;
+  border-radius: 100px;
+  border: none;
+  outline: none;
+  top: 693px;
+  width: 538px;
+  height: 122px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #383838;
+  position: absolute;
+  font-family: "BMJUA";
+  text-transform: uppercase;
+}
+
+.quiz_img {
+  width: 951px;
+  height: 809px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.quiz_img > img {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.quiz_stop {
+  width: 126px;
+  height: 147px;
+  top: 76%;
+  right: 30px;
+  position: absolute;
+  background: url(../img/EngStudy/StopQuiz.png) no-repeat center;
+  cursor: pointer;
+}
+
+/*퀴즈 화면*/

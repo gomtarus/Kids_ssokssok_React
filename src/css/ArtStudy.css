@@ -1,0 +1,189 @@
+.art_main_wrap {
+  margin: 25px auto;
+  width: 1500px;
+  height: 820px;
+  background-image: url(../img/ArtStudy/Whiteboard.png);
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+/* 메인 */
+
+canvas {
+  width: 1424px;
+  height: 746px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  border-radius: 26px;
+  z-index: 2;
+}
+
+.temp_canvas {
+  width: 1424px;
+  height: 746px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  border-radius: 26px;
+}
+
+.temp_canvas > img {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+/* 캔버스 */
+
+.pencel {
+  width: 12%;
+  left: 300px;
+  bottom: 18px;
+  cursor: pointer;
+  position: absolute;
+  z-index: 9999;
+}
+
+.pencel_panel {
+  width: 1000px;
+  height: 170px;
+  bottom: 100px;
+  left: 50%;
+  top: 110px;
+  transform: translate(-50%, 0);
+  position: absolute;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  background-color: white;
+  transition: 0.5s;
+  z-index: 9999;
+}
+
+.pencel_panel_top_wrap {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.pencel_panel_top_wrap p {
+  font-size: 35px;
+  padding: 0 10px;
+}
+
+.pencel_panel_top_wrap input[type="range"] {
+  width: 600px;
+}
+
+#brush_size {
+  cursor: pointer;
+}
+
+#canvas_reset {
+  right: 20px;
+  position: absolute;
+  cursor: pointer;
+}
+
+#canvas_close {
+  width: 40px;
+  top: -20px;
+  right: -20px;
+  position: absolute;
+  cursor: pointer;
+}
+
+/* 붓 패널*/
+
+.pencel_panel_bottom_wrap {
+  width: 100%;
+  height: calc(100% - 60px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pencel_panel_bottom_wrap ul {
+  text-align: center;
+}
+
+.pencel_panel_bottom_wrap ul li {
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  float: left;
+  cursor: pointer;
+  border-radius: 100%;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  border: 2px solid white;
+  box-sizing: border-box;
+}
+
+/* 연필 */
+
+.eraser {
+  width: 13%;
+  right: 300px;
+  bottom: 18px;
+  cursor: pointer;
+  position: absolute;
+  z-index: 9999;
+}
+
+/* 지우개 */
+
+.artBtn {
+  top: 50px;
+  right: 50px;
+  cursor: pointer;
+  position: absolute;
+  transition: 0.5s;
+  z-index: 9999;
+}
+
+.artPanel {
+  width: 137px;
+  height: 685px;
+  top: 50px;
+  right: -150px;
+  position: absolute;
+  transition: 0.5s;
+  z-index: 9999;
+}
+
+.artPanel > ul > li {
+  cursor: pointer;
+}
+
+.art_resetBtn {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 130px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #71d0ff;
+  cursor: pointer;
+}
+
+.art_resetBtn > p {
+  font-size: 25px;
+}
+
+#art_paenl_close {
+  width: 40px;
+  top: -15px;
+  right: -15px;
+  position: absolute;
+  cursor: pointer;
+}
