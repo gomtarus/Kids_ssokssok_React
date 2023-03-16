@@ -34,5 +34,5 @@
 - 오답 시 목숨이 -1씩 감소 됩니다. 목숨이 0개 일시 게임이 종료됩니다.
 
 <br><br> 
-### 🌍 [키즈쏙쏙](https://gomtarus.github.io/Kids_ssokssok/main.html)
+### 🌍 [키즈쏙쏙](http://gomtarus.github.io/Kids_ssokssok_React)
 
